@@ -1,0 +1,2 @@
+SOFT_6017, Modular Programming
+SOFT_6018, Programming Fundamentals
